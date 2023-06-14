@@ -1,0 +1,6 @@
+/* Color Theme Swatches in HSLA */
+:root {
+--color-text1:hsla(236, 16%, 38%, 1);
+--color-text2: hsla(236, 16%, 30%, 1);
+--color-background: hsla(33, 22%, 93%, 1);
+}
